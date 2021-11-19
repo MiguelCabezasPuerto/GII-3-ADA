@@ -1,0 +1,140 @@
+V "GNAT Lib v2011"
+A -gnatA
+P SS ZX
+R vnnnnnnvnvnnnnnnnnvvnvnnnvnnvnnvnnnnvnnnnnnnvnnnnnnnnnnnnnnnnvnnnnvnv3nnnnnnnnnnnn
+
+U reactornuclear%b	reactornuclear.adb	95b688e8 NE OO PK IL
+W ada.tags%s		a-tags.adb		a-tags.ali
+W system%s		system.ads		system.ali
+W system.concat_2%s	s-conca2.adb		s-conca2.ali
+W system.concat_4%s	s-conca4.adb		s-conca4.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W system.tasking.protected_objects.entries%s  s-tpoben.adb  s-tpoben.ali
+W system.tasking.protected_objects.operations%s  s-tpobop.adb  s-tpobop.ali
+
+U reactornuclear%s	reactornuclear.ads	2cf9e6f4 EE NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+W ada.calendar.formatting%s  a-calfor.adb	a-calfor.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.real_time.timing_events%s  a-rttiev.adb	a-rttiev.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system%s		system.ads		system.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W system.tasking.protected_objects.entries%s  s-tpoben.adb  s-tpoben.ali
+
+D ada.ads		20110428140902 3ffc8e18
+D a-calend.ads		20110428140858 343c83dd
+D a-calfor.ads		20110428140858 0a6f9afc
+D a-catizo.ads		20110428140858 409d7e5b
+D a-except.ads		20110428140900 4759ecee
+D a-finali.ads		20110428140900 b333d305
+D a-fihema.ads		20110428140900 1940728a
+D a-ioexce.ads		20110428140900 8b9de6cd
+D a-reatim.ads		20110428140902 63f07669
+D a-rttiev.ads		20110428140902 22f35a33
+D a-stream.ads		20110428140902 2ca4ee37
+D a-tags.ads		20110428140902 7b33f560
+D a-textio.ads		20110428140902 386df5d4
+D a-unccon.ads		20110428140902 f9eb8f06
+D interfac.ads		20110428140906 f77d8799
+D i-c.ads		20110428140906 5421119b
+D i-cstrin.ads		20110428140906 341d0ddf
+D i-cstrea.ads		20110428140906 1bd72c32
+D reactornuclear.ads	20181231124558 5ff8a586
+D reactornuclear.adb	20181231125234 ca4e2d6e
+D system.ads		20110428140910 bc164b96
+D s-atacco.ads		20110428140906 1dc856ad
+D s-conca2.ads		20110428140906 fbd0f2fc
+D s-conca4.ads		20110428140906 025fe3be
+D s-crtl.ads		20110428140906 ac77b159
+D s-exctab.ads		20110428140906 66e51330
+D s-ficobl.ads		20110428140906 443b9d66
+D s-finroo.ads		20110428140906 2dd85ce2
+D s-imgint.ads		20110428140906 02dbe0c2
+D s-multip.ads		20110428140908 38ac9f73
+D s-osinte.ads		20110428140908 ecf1fbfd
+D s-parame.ads		20110428140908 03aa3b01
+D s-pooglo.ads		20110428140908 542f33d0
+D s-secsta.ads		20110428140908 eea35a36
+D s-soflin.ads		20110428140908 607487c5
+D s-stache.ads		20110428140908 596fc1b4
+D s-stausa.ads		20110428140908 017a0a05
+D s-stalib.ads		20110428140908 f78bcf95
+D s-stoele.ads		20110428140908 facd7d98
+D s-stoele.adb		20110428140908 afc5dc80
+D s-stopoo.ads		20110428140908 5c51faf9
+D s-tasinf.ads		20110428140908 859198ad
+D s-taspri.ads		20110428140908 196697f7
+D s-taprop.ads		20110428140908 07f79e46
+D s-taskin.ads		20110428140908 b2eaee08
+D s-taprob.ads		20110428140908 502249e3
+D s-tpoben.ads		20110428140908 e8374469
+D s-tpobop.ads		20110428140908 5f548bb3
+D s-traent.ads		20110428140908 5221ee41
+D s-unstyp.ads		20110428140908 6ae15c76
+D s-wchcon.ads		20110428140910 bfeb2e3d
+D s-win32.ads		20110428140910 07238fa2
+X 1 ada.ads
+16K9*Ada 19e8 19|1r6 2r6 3r6 5r5 6r5 7r5 9r6
+X 2 a-calend.ads
+36K13*Calendar 358e17 19|9r10
+X 3 a-calfor.ads
+24K22*Formatting 215e28 19|9w19
+X 9 a-reatim.ads
+39K13*Real_Time 139e18 19|1w10 2r10 5r9 6r9
+41O9*Time 19|33r17
+46O9*Time_Span 19|32r17 36r21
+53V13*Clock{41O9} 20|56s25 69s23
+55V13*"+"{41O9} 20|56s31 69s29
+85V13*Milliseconds{46O9} 19|32s28 36s32
+X 10 a-rttiev.ads
+38K23*Timing_Events 81e32 19|2w20 6r19
+40R9*Timing_Event 75e14 19|18r36 19r38 37r19 38r20 20|61r36 85r38
+45U14*Set_Handler 20|43s16 46s16 49s16
+50U14*Set_Handler 20|37s13 70s10 88s10
+X 13 a-textio.ads
+49K13*Text_IO 471e16 19|3w10 7r9
+263U14*Put_Line 20|42s16 45s16 48s16 66s13 87s10
+X 19 reactornuclear.ads
+11K9*ReactorNuclear 46l5 46e19 20|1b14 98l5 98t19
+13I12*Output_t{integer} 20r33 34r14 20|75r33
+15W19*Reactor_t 44l8 44e17 20|3b19 96l8 96t17
+17U17 setOperation 17>30 20|35b17 59l11 59t23
+17i30 operation{integer} 20|35b30 38r31
+18U17 Timer 18=23 20|43r52 49r52 61b17 70r50 73l11 73t16
+18r23 event{10|40R9} 20|61b23
+19U17 Timeout 19=25 20|37r50 85b17 88r47 89l11 89t18
+19r25 event{10|40R9} 20|85b25
+20V16 getOutput{13I12} 20|75b16 78l11 78t20
+22U17 setID 22>23 20|80b17 83t10
+22i23 newID{integer} 20|80b23 82r15
+23U17 setOutput 23>27 20|90b17 93l11 93t20
+23i27 valor{integer} 20|90b27 92r18
+24Y13 estoyVivo1 20|10b13 13l11 13t21
+25Y13 estoyVivo2 20|20b13 23l11 23t21
+26Y13 estoyVivo3 20|30b13 33l11 33t21
+27U17 vivir1 27>24 20|5b17 8l11 8t17
+27i24 valor{integer} 20|5b24 7r17
+28U17 vivir2 28>24 20|15b17 18l11 18t17
+28i24 valor{integer} 20|15b24 17r17
+29U17 vivir3 29>24 20|25b17 28l11 28t17
+29i24 valor{integer} 20|25b24 27r17
+32o7 tiTimeout{9|46O9} 20|37r39 88r36
+33o7 tNextTime{9|41O9} 20|43r41 46r41 49r41 56r12 69r10
+34i7 output{13I12} 20|64r13 65r11 65r20 66r54 77r17 92r10
+35i7 operation_mode{integer} 20|38r13 40r18
+36o7 tiEventPeriod{9|46O9} 20|56r33 69r31 70r35
+37r7 OutputEvent{10|40R9} 20|43r28 46r28 49r28 70r22
+38r7 TimeoutEvent{10|40R9} 20|37r25 88r22
+39i7 id{integer} 20|42r73 45r59 48r64 66r91 82r9
+40i7 vivo1{integer} 20|7r10 10r29 12r10
+41i7 vivo2{integer} 20|17r10 20r29 22r10
+42i7 vivo3{integer} 20|27r10 30r29 32r10
+
